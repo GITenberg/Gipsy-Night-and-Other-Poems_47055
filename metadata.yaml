@@ -1,9 +1,13 @@
 _repo: Gipsy-Night-and-Other-Poems_47055
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Bianco, Pamela
     gutenberg_agent_id: '44113'
     url: http://www.gutenberg.org/2009/agents/44113
+covers:
+- cover_type: archival
+  image_path: 47055-h/images/cover.jpg
 creator:
   author:
     agent_name: Hughes, Richard Arthur Warren
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35251
     wikipedia: http://en.wikipedia.org/wiki/Richard_Hughes_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47055#Gipsy-Night-and-Other-Poems
 gutenberg_issued: '2014-10-05'
 gutenberg_type: Text
 identifiers:
